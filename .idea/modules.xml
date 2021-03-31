@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/huawei_test.iml" filepath="$PROJECT_DIR$/huawei_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/t002.iml" filepath="$PROJECT_DIR$/t002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test001/test001.iml" filepath="$PROJECT_DIR$/test001/test001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test002/test002.iml" filepath="$PROJECT_DIR$/test002/test002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test003/test003.iml" filepath="$PROJECT_DIR$/test003/test003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test004/test004.iml" filepath="$PROJECT_DIR$/test004/test004.iml" />
+    </modules>
+  </component>
+</project>
